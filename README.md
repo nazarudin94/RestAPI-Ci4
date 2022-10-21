@@ -2,7 +2,7 @@
 
 ## What is CodeIgniter?
 
-1.Clone dulu
+1.Clone dulu <br>
 2.Bikin Table Pegawai dengan kolom id,nama dan email
 3.jalankan apache dan mysql
 4.jalankan lewat postman
