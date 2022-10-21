@@ -1,11 +1,11 @@
 # CodeIgniter 4 Framework
 
-## What is CodeIgniter?
+## Tutorial 
 
 1.Clone dulu <br>
-2.Bikin Table Pegawai dengan kolom id,nama dan email
-3.jalankan apache dan mysql
-4.jalankan lewat postman
+2.Bikin Table Pegawai dengan kolom id,nama dan email <br>
+3.jalankan apache dan mysql <br>
+4.jalankan lewat postman <br>
 
 
 ## Important Change with index.php
