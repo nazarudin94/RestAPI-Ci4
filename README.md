@@ -2,10 +2,10 @@
 
 ## Tutorial 
 
-1.Clone dulu <br>
-2.Bikin Table Pegawai dengan kolom id,nama dan email <br>
-3.jalankan apache dan mysql <br>
-4.jalankan lewat postman <br>
+1. Clone dulu <br>
+2. Bikin Table Pegawai dengan kolom id,nama dan email <br>
+3. Jalankan apache dan mysql <br>
+4. Jalankan lewat postman <br>
 
 
 ## Important Change with index.php
@@ -47,3 +47,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+
+## Catatan
+Dalam Api ini belum menggunakan JWT sebegai autentifikasi
